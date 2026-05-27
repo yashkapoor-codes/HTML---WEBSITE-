@@ -1,0 +1,23 @@
+<head ! doctype html >
+<html>
+<head>
+    <title > practice website </title>
+</head >
+<body>
+    <h1> welcom to my website </h1>
+    <p> this is my first website </p>
+   <image > src "https://pixabay.com/images/download/pen_ash-snow-10134653_1920.jpg"
+    alt = "my first website image " >
+<br><br>
+< a href =  https://github.com/  > vist github  </a>
+<br><br>
+<button> click here </button>
+    <h2> my skills </h2>
+    <ul>
+        <li> html </li>
+        <li> python </li>
+        <li> github </li>
+     </ul>
+    </>    
+</html>
+
